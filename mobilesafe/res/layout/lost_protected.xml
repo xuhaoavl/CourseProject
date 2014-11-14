@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff5f5f5" >
+
+    <TextView
+        android:id="@+id/tv_lost_protected_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:textColor="#ff6BB923"
+        android:text="安全手机号码:"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginTop="10dip"
+        android:background="#ffffffff" >
+    </View>
+
+    <CheckBox
+        android:id="@+id/cb_isprotecting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="没有开启防盗保护"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginTop="5dip"
+        android:background="#ffffffff" >
+    </View>
+
+    <TextView
+        android:id="@+id/tv_reentry_setup_guide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:text="重新进入设置向导"
+        android:textColor="#ff6BB923"
+        android:textSize="20sp" />
+	<TextView 
+	    android:layout_width="match_parent"
+	    android:layout_marginTop="15dp"
+	    android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="用安全号码发送短信\n\n#*location*# 获取手机的位置\n\n#*delete*# 手机设置为出厂模式\n\n#*lockscreen*# 给手机加密 锁定屏幕\n\n#*alram*# 发出报警音乐 "
+	    
+	    />
+</LinearLayout>
