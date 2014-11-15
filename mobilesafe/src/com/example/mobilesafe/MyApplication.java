@@ -6,7 +6,7 @@ import android.content.IntentFilter;
 
 import com.example.mobilesafe.domain.TaskInfo;
 import com.example.mobilesafe.receiver.LockScreenReceiver;
-
+//
 public class MyApplication extends Application {
 	public TaskInfo taskinfo;
 

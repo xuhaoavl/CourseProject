@@ -10,7 +10,7 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.TextView;
 
 import com.example.mobilesafe.R;
-
+//
 public class TaskSettingActivity extends Activity {
 	private TextView tv_show_system_app,tv_kill_process;
 	private CheckBox cb_show_system_checked,cb_kill_process;

@@ -32,7 +32,7 @@ import com.example.mobilesafe.domain.TaskInfo;
 import com.example.mobilesafe.engine.TaskInfoProvider;
 import com.example.mobilesafe.ui.stub.MyToast;
 import com.example.mobilesafe.util.TextFormater;
-
+//
 public class TaskManagerActivity extends Activity {
 	private TextView tv_task_count;
 	private TextView tv_avail_memory;

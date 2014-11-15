@@ -7,7 +7,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.mobilesafe.R;
-
+//
 public class MyToast {
 
 	/**

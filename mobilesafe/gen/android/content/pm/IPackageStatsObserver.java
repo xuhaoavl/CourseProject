@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\mobilesafe\\CourseProject\\mobile\\mobilesafe\\src\\android\\content\\pm\\IPackageStatsObserver.aidl
+ * Original file: D:\\Java\\CourseProject\\mobilesafe\\src\\android\\content\\pm\\IPackageStatsObserver.aidl
  */
 package android.content.pm;
 /**

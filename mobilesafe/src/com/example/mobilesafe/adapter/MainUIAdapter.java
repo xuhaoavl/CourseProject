@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.mobilesafe.R;
-
+//
 public class MainUIAdapter extends BaseAdapter {
 	
 	private static final String TAG = "MainUIAdapter";

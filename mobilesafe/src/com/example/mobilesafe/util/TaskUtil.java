@@ -6,7 +6,7 @@ import android.app.ActivityManager;
 import android.app.ActivityManager.MemoryInfo;
 import android.app.ActivityManager.RunningAppProcessInfo;
 import android.content.Context;
-
+//
 public class TaskUtil {
 
 	public static void killAllProcess(Context context) {

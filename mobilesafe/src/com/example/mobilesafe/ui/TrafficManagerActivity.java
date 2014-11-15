@@ -27,7 +27,7 @@ import android.widget.TextView;
 import com.example.mobilesafe.R;
 import com.example.mobilesafe.util.ImageUtil;
 import com.example.mobilesafe.util.TextFormater;
-
+//
 public class TrafficManagerActivity extends Activity {
 
 	private TextView tv_mobile_total;

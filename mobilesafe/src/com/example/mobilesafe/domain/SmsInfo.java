@@ -1,5 +1,5 @@
 package com.example.mobilesafe.domain;
-
+//
 /**
  * type 1 .代表的是接受 2.代表发送
  * 
